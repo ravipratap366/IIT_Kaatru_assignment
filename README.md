@@ -22,7 +22,7 @@ cnt is the dependent variable
 ### instructions to Run the code for Assignment 
 
 
- - [Required Data(google drive link) ](https://drive.google.com/drive/folders/1-M64d6-cWzQgiG7vxSfu-QN3EdBYw9PT?usp=sharing)
+ - [Required Data(google drive link) ]()
  - [Jupyter notebook (contains other approaches i tried)](https://github.com/ravipratap366/IIT_Kaatru_assignment/blob/main/assignment-iit_kaatru%20(1).ipynb
 
 
