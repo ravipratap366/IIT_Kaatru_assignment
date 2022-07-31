@@ -23,8 +23,7 @@ cnt is the dependent variable
 
 
  - [Required Data(google drive link) ](https://drive.google.com/drive/folders/1-M64d6-cWzQgiG7vxSfu-QN3EdBYw9PT?usp=sharing)
- - [Jupyter notebook (contains other approaches i tried)](https://github.com/ravipratap366/PhotoGAUGE_assignment1-2/blob/main/pipe_len_Detectron2_final_(2).ipynb)
- - [pdf file (contains steps i tried in this project)](https://github.com/ravipratap366/PhotoGAUGE_assignment1-2/blob/main/PhotoGAUGE_final.pdf)
+ - [Jupyter notebook (contains other approaches i tried)](https://github.com/ravipratap366/IIT_Kaatru_assignment/blob/main/assignment-iit_kaatru%20(1).ipynb
 
 
 
